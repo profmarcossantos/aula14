@@ -1,4 +1,4 @@
 print("Olá Mundo!")
-print("*"*10)
+print("*"*15)
 
 print("Acabou o programa.")
